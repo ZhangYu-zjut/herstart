@@ -30,7 +30,7 @@ export default function Footer() {
                 <div className="text-center">
                   <div className="bg-white p-2 rounded-lg shadow-sm overflow-hidden">
                     <img
-                      src="/qr-code-2.png"
+                      src="/qr_person.png"
                       alt="微信号"
                       className="w-28 h-28 object-cover"
                     />
@@ -40,7 +40,7 @@ export default function Footer() {
                 <div className="text-center">
                   <div className="bg-white p-2 rounded-lg shadow-sm">
                     <img
-                      src="/qr-code-2.png"
+                      src="/qr_group_11_30.png"
                       alt="意见反馈"
                       className="w-28 h-28"
                     />
